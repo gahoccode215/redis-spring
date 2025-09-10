@@ -1,4 +1,4 @@
-package com.gahoccode.redis_spring;
+package com.gahoccode.redis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
